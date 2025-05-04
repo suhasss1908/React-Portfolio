@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Bank Management System",
+      "imageSrc": "/src/assests/projects/project.png",
+      "description": "A simple Java-based Bank Management System using JForms and JDBC for seamless database connectivity with MySQL.",
+      "skills": ["Java Swing", "MySQL", "AWT"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/suhasss1908/Bank-Management-System.git"
+    },
+    {
+      "title": "Amazon Clone",
+      "imageSrc": "/src/assests/projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript", "React JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/suhasss1908/AmazonClone"
+    },
+    {
+      "title": "Multi-App Social Media Dashboard Wireframe",
+      "imageSrc": "/src/assests/projects/project.png",
+      "description": "This wireframe presents a side-by-side layout of various mobile app interfaces.",
+      "skills": ["Figma", "UI Development"],
+      "demo": "https://www.example.com",
+      "source": "https://www.figma.com/design/FyuQGihgp5bImvDlgWQOOW/WireFrame?node-id=2-139&t=9C7dTw5NMajIrp5R-0"
+    }
+  ]

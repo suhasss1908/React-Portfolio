@@ -1,0 +1,32 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/src/assests/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/src/assests/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/src/assests/skills/react.png"
+    },
+    
+    {
+      "title": "Java",
+      "imageSrc": "/src/assests/skills/java.png"
+    },
+    {
+      "title": "Version Control",
+      "imageSrc": "/src/assests/skills/github.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "/src/assests/skills/figma.png"
+    },
+    {
+      "title": "Data Structures",
+      "imageSrc": "/src/assests/skills/datastructures.png"
+    }
+    
+  ]
